@@ -1,5 +1,6 @@
-# SR-FLIPFLOP-USING-CASE
-
+# SR FLIPFLOP USING CASE
+# Developed by:Kowshik P
+# RegisterNumber:212224040164
 **AIM:**
 
 To implement  SR flipflop using verilog and validating their functionality using their functional tables
